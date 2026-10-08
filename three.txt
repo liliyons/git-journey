@@ -1,3 +1,2 @@
 Devops Tools
 Check Jenkins and Gitlab
-K8s, Sonarqube, Prometheus
